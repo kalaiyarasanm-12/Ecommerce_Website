@@ -1,6 +1,6 @@
-# BestBags
+# Ecommerce Website
 
-## Table of contents
+## Table of contents:
 
 - [Introduction](#introduction)
 - [Demo](#demo)
